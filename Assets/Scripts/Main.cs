@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Main : MonoBehaviour
 {
-    [Header("Conditionals")]
+    [Header("Specs")]
     public string Period;
     public string Country;
     public string Type;
@@ -16,7 +16,7 @@ public class Main : MonoBehaviour
     public Dropdown Cou;
     public Dropdown Typ;
 
-    [Header("Logo Image")]
+    [Header("Summon")]
     public Text summon;
 
     void Update()
